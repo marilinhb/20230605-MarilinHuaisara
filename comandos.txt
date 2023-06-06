@@ -1,0 +1,140 @@
+    1  ls
+    2  cd documents
+    3  ls
+    4  cd ..
+    5  ls
+    6  mkdir projects
+    7  ls
+    8  cd projects
+    9  ls
+   10  git remote add origin https://github.com/marilinhb/20230605-MarilinHuaisara.git
+   11  clear
+   12  ls
+   13  git remote add origin https://github.com/marilinhb/20230605-MarilinHuaisara.git
+   14  git init
+   15  git remote add origin https://github.com/marilinhb/20230605-MarilinHuaisara.git
+   16  ls
+   17  clear
+   18  ls
+   19  ls -la
+   20  ls
+   21  clear
+   22  ls
+   23  ls -la
+   24  cd ..
+   25  ls
+   26  cd projects
+   27  ls
+   28  cd ..
+   29  rm -rf projects
+   30  cd projects
+   31  mkdir projects
+   32  cd projects
+   33  ls
+   34  ls
+   35  cd
+   36  clear
+   37  ls
+   38  cd projects
+   39  ls
+   40  mkdir 20230605-MarilinHuaisara
+   41  cd 20230605-MarilinHuaisara/
+   42  ls
+   43  clear
+   44  git remote add origin https://github.com/marilinhb/20230605-MarilinHuaisara.git
+   45  clear
+   46  git init
+   47  git remote add origin https://github.com/marilinhb/20230605-MarilinHuaisara.git
+   48  ls
+   49  clear
+   50  git log
+   51  git status
+   52  vi commandos.txt
+   53  ls
+   54  vi index.html
+   55  ls
+   56  git status
+   57  git add .
+   58  git status
+   59  git rm --cached .
+   60  git status
+   61  git rm --cached .
+   62  git rm .
+   63  git status
+   64  ls
+   65  rm commandos.txt
+   66  git status
+   67  git branch main
+   68  git branch
+   69  git branch -r
+   70  git branch -a
+   71  git checkout -b main
+   72  ls
+   73  clear
+   74  ls
+   75  vi comandos.txt
+   76  vi index.html
+   77  ls
+   78  clear
+   79  ls
+   80  vi main.js
+   81  ls
+   82  clear
+   83  git status
+   84  ls -la
+   85  git commit -m "commit 01 de MarilinHuaisara"
+   86  git status
+   87  clear
+   88  git status
+   89  git add .
+   90  git commit -m "commit 01 de MarilinHuaisara"
+   91  git config --global user.email "marilin.hb@hotmail.com"
+   92  git config --global user.name "Marilin Huaisara"
+   93  git commit -m "commit 01 de MarilinHuaisara"
+   94  git status
+   95  git staus
+   96  clear
+   97  git status
+   98  git push -u origin main
+   99  git status
+  100  git checkout -b feature
+  101  mkdir Hardware Software
+  102  ls
+  103  mkdir SeguridadInformatica
+  104  touch Hardware/resumen.txt
+  105  cd Hardware
+  106  ls
+  107  cd ..
+  108  touch Software/resumen.tx
+  109  touch SeguridadInformatica/resumen.tx
+  110  ls
+  111  cd SeguridadInformatica/
+  112  ls
+  113  cd ..
+  114  cd Software/
+  115  ls
+  116  cler
+  117  clear
+  118  ls
+  119  cd ..
+  120  git push -u origin feature
+  121  git add .
+  122  git commit -m "commit 02 de Marilin Huaisara"
+  123  git push -u origin feature
+  124  git checkout main
+  125  ls
+  126  clear
+  127  ls
+  128  mv main.js resumenHardware.txt
+  129  mv index.html resumenSoftware.txt
+  130  vi resumenSoftware.txt
+  131  vi resumenHardware.txt
+  132  vi resumenHardware.txt
+  133  cleaar
+  134  history
+  135  clear
+  136  ls
+  137  ls
+  138  vi comandos.txt
+  139  history
+
